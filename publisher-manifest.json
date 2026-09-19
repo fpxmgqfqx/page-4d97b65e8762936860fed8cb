@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "template_version": "ba56c49d796df3fbd899",
+  "page_size": 20,
+  "site_id": "3e8ba7db567889f4ac43f91a",
+  "owner": "fpxmgqfqx",
+  "repo": "page-4d97b65e8762936860fed8cb",
+  "title": "clash verge机场推荐",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "4d97b65e8762936860fed8cb",
+      "a": "GLaDOS",
+      "b": "clash verge机场推荐",
+      "entity": "GLaDOS",
+      "brand": "clash verge机场推荐",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "381ac8589202e36198e9fff5c450d2b40d8b6d98749917ccd341fbe0c39f41f2",
+      "content": {
+        "primary_entity": "GLaDOS",
+        "keyword1": "GLaDOS",
+        "keyword2": "clash verge机场推荐",
+        "content": {
+          "AI_CLIENTS_INTRO": "手机、电脑、路由器可按系统选择 Clash Verge、Clash Meta 或 Shadowrocket 等客户端，订阅格式需匹配客户端要求。",
+          "AI_CLIENTS_TITLE": "客户端适配参考",
+          "AI_CLOSING_TEXT": "根据设备数量与流量需求挑选合适套餐，再按客户端文档完成订阅配置。",
+          "AI_CLOSING_TITLE": "选对套餐，连接更顺畅",
+          "AI_DESCRIPTION": "，围绕设备选择、订阅配置和套餐对比提供实用参考。GLaDOS 提供基础版、旗舰版和团队版三档方案，月付从 ¥15 到 ¥85，年付分别为 ¥150、¥350 和 ¥850。基础版适合 3 台设备以内、每月 100GB 流量的轻度使用；旗舰版支持 5 台设备、每月 300GB 流量，并带 IPLC 专线游戏加速优化；团队版提供 1000GB 流量和 20 台设备在线，适合小型团队协作。客户端可按手机、电脑或路由器系统选择 Clash Verge、Clash Meta、Shadowrocket 等，订阅导入方式以各客户端文档为准。",
+          "AI_FEATURES_INTRO": "从设备数量、流量周期和线路特点三个角度了解 GLaDOS 套餐差异。",
+          "AI_FEATURES_TITLE": "套餐与设备匹配要点",
+          "AI_FEATURE_TEXT_1": "基础版支持 3 台设备、每月 100GB；旗舰版支持 5 台设备、每月 300GB；团队版支持 20 台设备、每月 1000GB。",
+          "AI_FEATURE_TEXT_2": "月付灵活，年付更划算：基础版 ¥150/年，旗舰版 ¥350/年，团队版 ¥850/年，长期使用可按年订阅。",
+          "AI_FEATURE_TEXT_3": "旗舰版与团队版提供更优化的线路选择，旗舰版含 IPLC 专线游戏加速优化，团队版支持企业定制路由。",
+          "AI_FEATURE_TITLE_1": "设备数量与流量",
+          "AI_FEATURE_TITLE_2": "订阅周期选择",
+          "AI_FEATURE_TITLE_3": "线路与场景优化",
+          "AI_GUIDE_INTRO": "按选择服务、查看适配要求、配置订阅三步完成使用准备。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "GLaDOS 提供基础版、旗舰版和团队版三档套餐，覆盖从个人轻量使用到团队多设备在线需求。可按设备数量、每月流量和订阅周期对比选择，再配合 Clash Verge 等客户端完成订阅配置。",
+          "AI_HERO_SUBTITLE": "多设备套餐，按需选择",
+          "AI_HIGHLIGHT_1": "月付 ¥15 起，年付更划算",
+          "AI_HIGHLIGHT_2": "覆盖 3 至 20 台设备在线",
+          "AI_HIGHLIGHT_3": "旗舰版含 IPLC 专线优化",
+          "AI_PLANS_INTRO": "基础版适合轻度个人使用，旗舰版增加设备数与流量并优化线路，团队版面向多设备协作场景。可结合月付或年付价格对比选择。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据设备数量和每月流量需求，在基础版、旗舰版和团队版之间选定一档套餐。",
+          "AI_STEP_TEXT_2": "确认设备系统与客户端类型，了解订阅链接的适配格式和导入要求。",
+          "AI_STEP_TEXT_3": "参照所选客户端文档，将订阅地址导入 Clash Verge 或对应客户端并完成配置。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "GLaDOS 套餐指南",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "基础版和旗舰版的主要区别是什么？",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB、支持 3 台设备，旗舰版每月 300GB、支持 5 台设备，并额外提供 IPLC 专线游戏加速优化和全节点流媒体解锁。",
+          "AI_FAQ_QUESTION_2": "一个账号可以同时登录几台设备？",
+          "AI_FAQ_ANSWER_2": "基础版 3 台，旗舰版 5 台，团队版 20 台。超出数量时新设备可能无法连接，可升级套餐或减少同时在线设备。",
+          "AI_FAQ_QUESTION_3": "年付和月付有什么区别？",
+          "AI_FAQ_ANSWER_3": "年付价格为基础版 150 元、旗舰版 350 元、团队版 850 元，相比月付按十二个月累计更省。流量和设备权益与月付相同。",
+          "AI_FAQ_QUESTION_4": "团队版适合什么样的使用场景？",
+          "AI_FAQ_ANSWER_4": "团队版提供每月 1000GB 流量、20 台设备和 VIP 高带宽节点，适合小型工作室、企业办公或多成员共用的场景，并支持企业定制路由。",
+          "AI_FAQ_QUESTION_5": "订阅如何在客户端中导入？",
+          "AI_FAQ_ANSWER_5": "下载对应系统的客户端后，复制订阅链接或扫描二维码，按客户端内的配置文档完成导入，连接成功后即可使用。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "9980d13db0f7e06d77d8bd420df98301dbb73a62c5b553ab18a6e4262f8ea0bd",
+    "sitemap.xml": "2e60edb7c2e867fcf92874e727a7f7670971e1a18e5d35ac65ebc11e04e9a22f",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "2a53ac38941bdbb19f7aa66ea625a8a6f7aa4b49144cffdce84ddffcbd62efb5"
+}
